@@ -36,7 +36,7 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 | **_ARCHITECTURE_**  | Models Views Controllers                |
 |                     | API RESTful                             |
 |                     | Vite.Js                                 |
-| **_PROGRAMMING_**   | Object Oriented Programming
+| **_PARADIGM_**   | Object Oriented Programming
 ||Functionnal programming|
 | **_METHOD_**        | Agile (Scrum)                           |
 |                     | Merise method                           |
