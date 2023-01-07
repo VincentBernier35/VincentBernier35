@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you</h1>
 - 👀 Hi, I'm Vincent a fullstack developer from France and I am living in Rennes. I love to play with APIs and Databases. 
 I'm always willing to learn
-- I love to share some fun side projects, here so feel free to follow.
+- I love to share some fun side projects here so feel free to follow.
 
 # - 📫 How to reach me ?
 
