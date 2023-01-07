@@ -20,14 +20,14 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 |                     |                                         |
 | ------------------- | --------------------------------------- |
 | **_LANGUAGE_**      | JavaScript & TypeScript                 |
-| **_BACK END_**      | NodeJS                                  |
-|                     | Framework: Express & NestJS             |
+| **_BACK END_**      | Node.js                                 |
+|                     | Framework: Express.js & NestJS          |
 |                     | ORM: Sequelize / typeORM                |
 |                     | authorization authentication (JWT)      |
 |                     | Cookies & Session                       |
 | **_FRONT END_**     | HTML/CSS                                |
 |                     | CSS & Bulma                             |
-|                     | ReactJS                                 |
+|                     | React                                   |
 | **_DATABASE_**      | SQL                                     |
 |                     | PostgreSql: Functions - Views - Indexes |
 |                     | Data security                           |
@@ -36,7 +36,8 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 | **_ARCHITECTURE_**  | Models Views Controllers                |
 |                     | API RESTful                             |
 |                     | Vite.Js                                 |
-| **_PROGRAMMING_**   | Object Oriented Programming             |
+| **_PROGRAMMING_**   | Object Oriented Programming
+||Functionnal programming|
 | **_METHOD_**        | Agile (Scrum)                           |
 |                     | Merise method                           |
 | **_CMS_**           | WordPress & Strapi                      |
