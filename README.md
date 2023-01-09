@@ -61,17 +61,17 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 
 <br>
 <a href="https://github.com/VincentBernier35/e-commerce_f0fShop_backend" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=e-commerce_f0fShop_backend&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=e-commerce_f0fShop_backend&theme=highcontrast" />
 </a>
 <hr>
 <a href="https://github.com/VincentBernier35/task-managementV3" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=task-managementV3&theme=radical&border=true" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=task-managementV3&theme=highcontrast&border=true" />
 </a>
 <hr>
 <a href="https://github.com/VincentBernier35/openAI-generateImage" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=openAI-generateImage&theme=radical" />
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=openAI-generateImage&theme=highcontrast" />
 </a>
 
 
-### Show some ❤️ by starring some of the repositories!
+#### Show some ❤️ by starring some of the repositories!
 ---
