@@ -13,9 +13,17 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=VincentBernier35&theme=radical&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VincentBernier35&theme=radical)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernier35&theme=radical&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=VincentBernier35&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs,issues,contribs&show_icons=true)<br/>
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=VincentBernier35&theme=highcontrast&include_all_commits=true&count_private=true)<br/>
+
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernier35&theme=highcontrast&include_all_commits=true&langs_count=10&count_private=true&layout=compact)
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
