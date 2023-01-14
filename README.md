@@ -14,7 +14,6 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=VincentBernier35&theme=highcontrast&include_all_commits=true&count_private=true&hide=prs,issues,contribs&show_icons=true)<br/>
 
 
 
@@ -23,7 +22,7 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentBernier35&theme=highcontrast&include_all_commits=true&langs_count=10&count_private=true&layout=compact)
+
 
 |                     |                                         |
 | ------------------- | --------------------------------------- |
@@ -53,25 +52,4 @@ vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/Link
 | **_DEVOPS_**        | Docker                                  |
 | **_DOCUMENTATION_** | Swagger                                 |
 
-<hr>
 
-<br>
-
-# Example of side project:
-
-<br>
-<a href="https://github.com/VincentBernier35/e-commerce_f0fShop_backend" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=e-commerce_f0fShop_backend&theme=highcontrast" />
-</a>
-<hr>
-<a href="https://github.com/VincentBernier35/task-managementV3" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=task-managementV3&theme=highcontrast&border=true" />
-</a>
-<hr>
-<a href="https://github.com/VincentBernier35/openAI-generateImage" target="_blank">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=VincentBernier35&repo=openAI-generateImage&theme=highcontrast" />
-</a>
-
-
-#### Show some ❤️ by starring some of the repositories!
----
