@@ -5,7 +5,7 @@ I'm always willing to learn
 
 # - 📫 How to reach me ?
 
-vincent.bernier@hotmail.fr or via [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-bernier-javascript/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-bernier-javascript/)
 
 ### 🌐 Socials:
 
